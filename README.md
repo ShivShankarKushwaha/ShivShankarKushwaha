@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [Shiv Shankar Kushwaha](github.com/ShivShankarKushwaha)
+- 👨‍💻 All of my projects are available at [Shiv Shankar Kushwaha](https://shivshankar.vercel.app/)
 
 - 💬 Ask me about **JavaScript, MongoDB, TypeScript and NodeJS**
 

@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/shiv-shankar-kushwaha-4083a3250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShivShankarKushwaha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shiv_9956" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiv_9956" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivshankarkushwaha0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivshankarkushwaha0000" height="30" width="40" /></a>
-<a href="https://twitter.com/ShivSha77163441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivSha77163441" height="30" width="40" /></a>
+<a href="https://twitter.com/codessk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivSha77163441" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>

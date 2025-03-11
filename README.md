@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shivshankarkushwaha0000@gmail.com**
 
-- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1jgpX7Eqt5wdnH9LJPSddEIwh2FEcoNav/view?usp=sharing)
+- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1adn3y4KVdmofQUUlhWnxfwcyIayq0pUi/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 

@@ -11,11 +11,11 @@
 
 - 🔭 I have experience as intern on **Buyhatke Internet Private Limited** and **Daxinataha Mastishk Media Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **graphQL**
 
 - 👨‍💻 All of my projects are available at [Shiv Shankar Kushwaha](https://shivshankar.vercel.app/)
 
-- 💬 Ask me about **JavaScript, MongoDB, TypeScript and NodeJS**
+- 💬 Ask me about **JavaScript, MongoDB, TypeScript, NextJs, Sveltekit, ShellScript and NodeJS**
 
 - 📫 How to reach me **shivshankarkushwaha0000@gmail.com**
 

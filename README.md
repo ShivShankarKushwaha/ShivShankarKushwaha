@@ -69,7 +69,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,docker,aws,bash,vercel" />
   </a>
 </p>
 

@@ -46,7 +46,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev" style="">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,vite" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,vite,svelte,vue" />
     <img style="filter:grayscale(.7)" src="https://skillicons.dev/icons?i=react" />
     <!-- React Native -->
   </a>
